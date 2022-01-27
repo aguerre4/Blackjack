@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Player.java\ \ \n\n\ @author\:\ Noah,\ Joel,\ Vik\n\ Assignment\ \#\:\ Player\ Class\ Blackjack\n\ \n\ Brief\ Program\ Description\:\n\ Player\ object\ has\ a\ hand\ and\ an\ amount\ of\ chips.\ These\ instances\ work\ closesly\n\ with\ the\ Dealer\ class.\ \n\n
+comment1.params=c\ n
+comment1.target=Player(int,\ java.lang.String)
+comment1.text=\n\ Parameterized\ constructor\ for\ the\ Player\ class\n\ Noah,\ Vik,\ and\ Joel\n\ \n\ @param\ c\ the\ amount\ of\ chips\ a\ player\ starts\ with\n\ @param\ n\ the\ player's\ name\n
+comment2.params=bet
+comment2.target=int\ betChips(int)
+comment2.text=\n\ Takes\ in\ a\ player's\ bet\ and\ withdraws\ it\ from\ the\ player's\ chip\ count\n\ Noah,\ Vik,\ and\ Joel\n\ \n\ @param\ bet\ \ \ the\ bet\n\ @return\ int\ \ the\ bet\n
+comment3.params=b
+comment3.target=void\ chipsWon(int)
+comment3.text=\n\ Adds\ chips\ back\ into\ the\ player's\ chip\ count\n\ Noah,\ Vik,\ and\ Joel\n\ \n\ @param\ \ \ b\ \ \ the\ winnings\n
+comment4.params=
+comment4.target=Hand\ getHand()
+comment4.text=\n\ Returns\ the\ hand\ of\ the\ player\n\ Noah,\ Vik,\ and\ Joel\n\ \n\ @return\ \ playerHand\n
+comment5.params=
+comment5.target=int\ getChips()
+comment5.text=\n\ Returns\ the\ amount\ of\ the\ chips\ of\ the\ player\n\ Noah,\ Vik,\ and\ Joel\n\ \n\ @return\ \ chips\n
+comment6.params=
+comment6.target=void\ newHand()
+comment6.text=\n\ Clears\ the\ hand\ of\ the\ player\n\ Noah,\ Vik,\ and\ Joel\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ Returns\ the\ name\ and\ chips\ of\ the\ player\n\ Noah,\ Vik,\ and\ Joel\n
+numComments=8

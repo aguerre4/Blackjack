@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\n\ Represents\ a\ single\ playing\ card\ from\ a\ deck\ of\ cards.In\ particular\n\ the\ card's\ methods\ have\ been\ defined\ to\ support\ the\ implmentation\n\ of\ a\ blackjack\ game.\n\ \n\ @author\ David\ Gumminger\n\ @version\ March\ 2018\n
+comment1.params=card
+comment1.target=Card(int)
+comment1.text=\ \n\ Takes\ a\ number\ between\ 0\ and\ 51\ and\ converts\ it\ to\ a\ unique\n\ card\ from\ a\ standard\ 52\ card\ deck.\ Note,\ this\ is\ NOT\ random.\n\ The\ same\ number\ will\ always\ generate\ the\ same\ card.\ Correct\n\ use\ of\ this\ constructor\ for\ a\ Deck\ would\ be\ call\ it\ 52\ times\n\ passing\ it\ a\ unique\ number\ each\ time.\ \n\ @\ precondition\:\ 0\ <\=\ card\ <\ 52\n\ @\ param\ an\ integer\ between\ 0\ and\ 51\n\ @author\ David\ Gumminger\n\ @version\ March\ 2018\ \ \n
+comment2.params=
+comment2.target=boolean\ isAce()
+comment2.text=\n\ Determines\ if\ the\ given\ card\ is\ an\ Ace\n\ @return\ True\ if\ the\ card\ is\ an\ Ace.\ False\ otherwise\n\ @author\ David\ Gumminger\n\ @version\ March\ 2018\ \ \n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Produces\ a\ string\ that\ contains\ the\ card's\ rank\ and\ suit\n\ @return\ string\ with\ card's\ rank\ and\ suit\ (e.g.\ Ace\ of\ Hearts)\n\ @author\ David\ Gumminger\n\ @version\ March\ 2018\ \ \n
+comment4.params=
+comment4.target=int\ getCardValue()
+comment4.text=\n\ Get\ the\ cards\ value\ for\ a\ game\ of\ Blackjack\n\ @return\ int\ between\ 1\ and\ 11\n\ @author\ David\ Gumminger\n\ @version\ March\ 2018\ \ \n
+comment5.params=setToOne
+comment5.target=void\ setAceToOne(boolean)
+comment5.text=\n\ Changes\ an\ ace's\ value\ from\ 11\ points\ to\ 1\ or\ 1\ to\ 11\n\ @param\ setToOne\ -\ True\ if\ the\ card\ should\ be\ changed\ to\n\ \ \ a\ value\ of\ one.\ False\ to\ change\ the\ value\ back\ to\ 11\n\ @author\ David\ Gumminger\n\ @version\ March\ 2018\ \ \n
+numComments=6

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ Game.java\ \n\n\ @author\:\ Noah,\ Vik,\ and\ Joel\n\ Assignment\ \#\:\ Game\ Main\ Method\n\ \n\ Brief\ Program\ Description\:\n\ Sets\ up\ the\ game\ by\ welcoming\ the\ player\ to\ the\ casino,\ asking\ them\ \n\ for\ their\ name,\ asking\ them\ for\ chips\ to\ purchase,\ displaying\ the\ rules\n\ and\ beginning\ a\ game\ by\ instantiating\ a\ Dealer\ object\ and\ calling\ the\n\ start()\ method\n\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

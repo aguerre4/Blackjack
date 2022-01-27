@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Component
+comment0.text=\n\ Component.java\ \ \n\n\ @author\:\ Noah,\ Vik,\ and\ Joel\n\ Assignment\ \#\:\ Graphics\n\ \n\ Brief\ Program\ Description\:\n\ Graphics\ for\ blackjack\n\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3
